@@ -30,4 +30,22 @@ public class Etudiant extends Personne implements Affichage, Consultation{
 		
 	}
 
+	@Override
+	public void doSomething() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void afficherNomMajuscule() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void afficherPrenomMajuscule() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
